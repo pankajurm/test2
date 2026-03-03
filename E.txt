@@ -1,6 +1,9 @@
 public class A {
 	public static void main(String[] args) {
 		int x = 10;
+		float m = 10.3f;
+		boolean isPresent = false;
 		System.out.println(x);
 	}
 }
+
