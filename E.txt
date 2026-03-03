@@ -7,8 +7,10 @@ public class A {
 		float m = 12.3f;
 		boolean isSubscribe = true;
 		char c = 'i';
+		String name = "Pankaj";
 		System.out.println(x);
 	}
 }
+
 
 
