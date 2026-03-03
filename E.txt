@@ -6,7 +6,9 @@ public class A {
 
 		float m = 12.3f;
 		boolean isSubscribe = true;
+		char c = 'i';
 		System.out.println(x);
 	}
 }
+
 
