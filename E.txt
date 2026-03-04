@@ -9,7 +9,8 @@ public class A {
 		char c = 'i';
 		String name = "Pankaj";
 		String s1 = "Rahul";
-		String s2 = "Deepak";
+		String s2 = "Yashvardhan"
+		String s3 = "Deepak";
 		System.out.println(x);
 	}
 }
