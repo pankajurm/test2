@@ -8,7 +8,7 @@ public class A {
 		boolean isSubscribe = true;
 		char c = 'i';
 		String name = "Pankaj";
-		String s1 = "Deepak";
+		String s1 = "Rahul";
 		System.out.println(x);
 	}
 }
