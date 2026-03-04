@@ -9,9 +9,11 @@ public class A {
 		char c = 'i';
 		String name = "Pankaj";
 		String s1 = "Rahul";
+		String s2 = "Yashvardhan"
 		System.out.println(x);
 	}
 }
+
 
 
 
